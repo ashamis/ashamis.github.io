@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About
 ===
 Hi, I am Alex Shamis. I currently a Research Software Development Engineer at Microsoft Research in Cambridge UK and a PhD student in affiliated in the Large Scale Distributed Systems group at Imperial College London.
