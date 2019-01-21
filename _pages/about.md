@@ -1,5 +1,13 @@
-About
-===
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hi, I am Alex Shamis. I currently a Research Software Development Engineer at Microsoft Research in Cambridge UK and a PhD student in affiliated in the Large Scale Distributed Systems group at Imperial College London.
 
 Microsoft Research
