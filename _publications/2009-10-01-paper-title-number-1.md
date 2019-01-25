@@ -10,4 +10,5 @@ Transactions can simplify distributed applications by hiding data distribution, 
 
 Existing distributed transactional designs either weaken this abstraction or are not designed for the best performance within a data center. This paper extends the design of FaRM — which provides strict serializability only for committed transactions — to provide opacity while maintaining FaRM’s high throughput, low latency, and high availability within a modern data center. It uses timestamp ordering based on real time with clocks synchronized to within tens of microseconds across a cluster, and a failover protocol to ensure correctness across clock master failures. FaRM with opacity can commit 5.4 million neworder transactions per second when running the TPC-C transaction mix on 90 machines with 3-way replication.
 
-[Download paper here](/files/mod057.pdf)
+[Download paper here](/files/fast-general-distributed-transactions-with-opacity.pdf)
+[Download BibTex here](/files/fast-general-distributed-transactions-with-opacity.bib)
