@@ -2,7 +2,7 @@
 title: "No compromises: distributed transactions with consistency, availability, and performance"
 authors: "Aleksandar Dragojevic, Dushyanth Narayanan, Ed Nightingale, Matthew Renzelmann, <b>Alex Shamis</b>, Anirudh Badam, Miguel Castro"
 collection: publications
-permalink: /publication/no-compromises-distributed-transactions-with-consistency.html
+permalink: /publication/no-compromises-distributed-transactions-with-consistency
 excerpt: 'In this paper, we show that there is no need to compromise in modern data centers. We show that a main memory distributed computing platform called FaRM can provide distributed transactions with strict serializability, high performance, durability, and high availability.'
 date: 2015-10-05
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
