@@ -2,7 +2,7 @@
 title: "Fast General Distributed Transactions with Opacity"
 collection: publications
 permalink: /publication/fast-general-distributed-transactions-with-opacity
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper extends the design of FaRM — which provides strict serializability only for committed transactions — to provide opacity while maintaining FaRM’s high throughput, low latency, and high availability within a modern data center. It uses timestamp ordering based on real time with clocks synchronized to within tens of microseconds across a cluster, and a failover protocol to ensure correctness across clock master failures.'
 date: 2019-06-30
 venue: 'ACM SIGMOD International Conference on Management of Data'
 ---
