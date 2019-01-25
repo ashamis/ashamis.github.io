@@ -1,8 +1,7 @@
 ---
 title: "No compromises: distributed transactions with consistency, availability, and performance"
-author: "Shamis, Alex and Renzelmann, Matthew and Novakovic, Stanko and Chatzopoulos, Georgios and Dragojevic, Aleksandar and Narayanan, Dushyanth and Castro, Miguel"
 collection: publications
-permalink: /publication/no-compromises-distributed-transactions-with-consistency-availability-and-performance
+permalink: /publication/no-compromises-distributed-transactions-with-consistency
 excerpt: 'In this paper, we show that there is no need to compromise in modern data centers. We show that a main memory distributed computing platform called FaRM can provide distributed transactions with strict serializability, high performance, durability, and high availability.'
 date: 2015-10-05
 venue: 'Symposium on Operating Systems Principles (SOSP)'
