@@ -1,6 +1,6 @@
 ---
 title: "Fast General Distributed Transactions with Opacity"
-authors: "Alex Shamis, Matthew Renzelmann, Stanko Novakovic, Georgios Chatzopoulos, Aleksandar Dragojevic, Dushyanth Narayanan, Miguel Castro"
+authors: "<b>Alex Shamis</b>, Matthew Renzelmann, Stanko Novakovic, Georgios Chatzopoulos, Aleksandar Dragojevic, Dushyanth Narayanan, Miguel Castro"
 collection: publications
 permalink: /publication/fast-general-distributed-transactions-with-opacity
 excerpt: 'This paper extends the design of FaRM — which provides strict serializability only for committed transactions — to provide opacity while maintaining FaRM’s high throughput, low latency, and high availability within a modern data center. It uses timestamp ordering based on real time with clocks synchronized to within tens of microseconds across a cluster, and a failover protocol to ensure correctness across clock master failures.'
