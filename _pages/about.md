@@ -16,3 +16,4 @@ I am a Senior Research Software Developmemt Engineer working on distributed syst
 
 Imperial College London
 --------
+I am a first year PhD student at Imperial College London. I am a member of the Large-Scale Data and Systems Group ([LSDS](https://lsds.doc.ic.ac.uk/)), under the supervision of Dr. [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/).
