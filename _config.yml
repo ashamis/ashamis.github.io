@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alex Shamis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Engineer and Student working on systems and security"
+  location         : 
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
