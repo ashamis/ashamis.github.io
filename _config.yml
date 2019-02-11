@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Software Engineer and Student working on systems and security"
   location         : 
-  employer         : "https://www.microsoft.com/en-us/research/people/alexsha/"
+  employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -178,9 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
