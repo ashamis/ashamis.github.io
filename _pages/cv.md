@@ -38,7 +38,7 @@ Work experience
   * Implemented the distributed logging infrastructure for extremely high volume mobile applications
 
 * Software Design Engineer II, Cosmos Distributed Storage, Microsoft, August 2011 - February 2014
-T e Cosmos distributed storage team is responsible for developing and maintaining a store that contains over an exabyte of data.
+  * The Cosmos distributed storage team is responsible for developing and maintaining a store that contains over an exabyte of data.
   * Designed and built an application which stores arbitrary data on SSD using a specialized on-disk layout. This allows for low read/write latency and high throughput while minimizing write amplification on top of NTFS.
   * Participated in the design and development of the next generation control plane architecture for Cosmos storage
   * Implemented features to increase data throughput, reduce latencies, and increase the number of nodes in a Cosmos environment
@@ -46,7 +46,7 @@ T e Cosmos distributed storage team is responsible for developing and maintainin
   * Designed and established new development and validation methodologies ranging from integrating new testing frameworks to automating manual processes
 
 * Software Design Engineer in Test, Cosmos Distributed Execution, Microsoft, October 2009- August 2011
-T e Cosmos distributed execution team is responsible for designing, developing, and advancing a distributed scheduling system.
+  * The Cosmos distributed execution team is responsible for designing, developing, and advancing a distributed scheduling system.
   * Designed and developed testing strategies for validating core distributed execution components, the primary of which is a distributed execution system - an evolution of Microsoft Research’s Dryad
   * Drove the testing strategy for a component that is the single execution scheduling point for a cluster of tens of thousands of machines by developing monitoring, reporting, and replay/simulation applications
   * Designed and developed a data ingestion and processing pipeline which consistently validates metrics of the batch job execution engine
