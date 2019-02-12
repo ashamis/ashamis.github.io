@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Shamis"
-  avatar           : "profile.png"
+  avatar           : "AlexProfileImage.jpg" # "profile.png"
   bio              : "Research Software Engineer and Student working on systems and security"
   location         : 
   employer         :
