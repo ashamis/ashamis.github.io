@@ -92,13 +92,3 @@ Patents
   * Patent filed 2018
 * Clock Synchronization (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, Georgios Chatzopoulos)
   * Patent filed 2018
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
