@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* Senior Research Software Development Engineer, Microsoft Research Cambridge, System and Networking, March 2017 - current
+* Senior Research Software Development Engineer, Microsoft Research Cambridge, Confidential Computing, September 2018 - Current
+  
+* Senior Research Software Development Engineer, Microsoft Research Cambridge, System and Networking, March 2017 - September 2018
   * Built a hybrid file system that utilizes non-volatile memory and SSDs to provide highly performant read and write APIs to the high-level system while at the same time reducing SSD wear
   * Integrated the previously mentioned file system with Microsoft’s FaRM, an in-memory transactional store; improved storage from three copies of data in memory with FaRM to one copy in memory and two on SSD. This change has allowed teams in Microsoft that use FaRM to reduce the financial impact of running FaRM.
   * Implemented innovative ways to reduce the amount of main memory needed to store metadata regarding objects that were written to SSD such that only two bytes plus a small static overhead are needed to find an object that is stored on disk
