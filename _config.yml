@@ -84,7 +84,8 @@ author:
   avatar           : "AlexProfileImage.jpg" # "profile.png"
   bio              : "Research Software Engineer and PhD Student working on systems and security"
   location         :
-  employer         : "Microsoft Research & Imperial College London"
+  employer         : "Microsoft Research"
+  employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=bHTtXIgAAAAJ"
   email            : "shamis@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
