@@ -1,0 +1,8 @@
+@Inproceedings (Conference){snmalloc,
+author = {Liétar, Paul and Butler, Theodore and Clebsch, Sylvan and Drossopoulou, Sophia and Franco, Juliana and Parkinson, Matthew J. and Shamis, Alex and Wintersteiger, Christoph M. and Chisnall, David},
+title = {snmalloc: A Message Passing Allocator},
+year = {2019},
+month = {June},
+abstract = { Snmalloc is an implementation of malloc aimed at workloads in which objects are typically deallocated by a different thread than the one that had allocated them. We use the term producer/consumer for such workloads. Snmalloc uses a novel message passing scheme which returns deallocated objects to the originating allocator in batches without taking any locks. It also uses a novel bump pointer-free list data structure with which just 64-bits of meta-data are sufficient for each 64 KiB slab. On such producer/consumer benchmarks our approach performs better than existing allocators. Snmalloc is available at https://github.com/Microsoft/snmalloc.},
+publisher = {ACM – Association for Computing Machinery},
+}
