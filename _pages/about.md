@@ -12,7 +12,7 @@ Hi, my name is Alex Shamis. Currently, I am a Research Software Development Engi
 
 Microsoft Research
 --------
-I am a Senior Research Software Developmemt Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on distributed transactional systems, mobile input, and other projects.
+I am a Senior Research Software Development Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on distributed transactional systems, mobile input, and other projects.
 
 Imperial College London
 --------
