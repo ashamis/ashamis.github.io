@@ -9,7 +9,7 @@ paperurl: '/files/fast-general-distributed-transactions-with-opacity.pdf'
 venue: 'ACM SIGMOD International Conference on Management of Data'
 ---
 
-##Best Paper - Honorable Mention##
+<strong>Best Paper - Honorable Mention</strong>
 
 Transactions can simplify distributed applications by hiding data distribution, concurrency, and failures from the application developer. Ideally the developer would see the abstraction of a single large machine that runs transactions sequentially and never fails. This requires the transactional subsystem to provide opacity (strict serializability for both committed and aborted transactions), as well as transparent fault tolerance with high availability. As even the best abstractions are unlikely to be used if they perform poorly, the system must also provide high performance.
 
