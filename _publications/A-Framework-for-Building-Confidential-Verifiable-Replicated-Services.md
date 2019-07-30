@@ -3,7 +3,7 @@ title: "CCF: A Framework for Building Confidential Verifiable Replicated Service
 authors: "Mark Russinovich, Edward Ashton, Christine Avanessians, Miguel Castro, Amaury Chamayou, Sylvan Clebsch, Manuel Costa, Cedric Fournet, Matthew Kerner, Sid Krishna, Julien Maffre, Thomas Moscibroda, Kartik Nayak, Olga Ohrimenko, Felix Schuster, Roy Schuster, <b>Alex Shamis</b>, Olga Vrousgou, Christoph M. Wintersteiger"
 collection: publications
 permalink: /publication/A-Framework-for-Building-Confidential-Verifiable-Replicated-Services
-excerpt: 'This paper present CCF, a framework to build premissioned confidential blockchains. CCF provides a simple programming model of a highly-available data store and a universally-verifiable log that implements a ledger abstraction. CCF leverages trust in a consortium of governing members and in a network of replicated hardware-protected execution environments to achieve high throughput, low latency, strong integrity and strong confidentiality for application data and code executing on the ledger'
+excerpt: 'This paper present CCF, a framework to build premissioned confidential blockchains. CCF provides a simple programming model of a highly-available data store and a universally-verifiable log that implements a ledger abstraction. CCF leverages trust in a consortium of governing members and in a network of replicated hardware-protected execution environments to achieve high throughput, low latency, strong integrity and strong confidentiality for application data and code executing on the ledger.'
 date: 2019-05-02
 paperurl: '/files/CCF-A-Framework-for-Building-Confidential-Verifiable-Replicated-Services.pdf'
 venue: 'Technical Report'
