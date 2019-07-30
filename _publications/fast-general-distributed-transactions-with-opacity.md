@@ -19,3 +19,5 @@ Permission to make digital or hard copies of all or part of this work for person
 [Download paper here](/files/fast-general-distributed-transactions-with-opacity.pdf)
 
 [Download BibTex here](/files/fast-general-distributed-transactions-with-opacity.bib)
+
+[Download honorable mention certificate here](/files/fast-general-distributed-transactions-with-opacity-Honorable-mention.pdf)
