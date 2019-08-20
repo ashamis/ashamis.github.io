@@ -17,5 +17,3 @@ Permission to make digital or hard copies of part or all of this work for person
 [Download paper here](/files/no-compromises-distributed-transactions-with-consistency.pdf)
 
 [Download BibTex here](/files/no-compromises-distributed-transactions-with-consistency.bib)
-
-<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/42950" frameborder="0" allowfullscreen></iframe>
