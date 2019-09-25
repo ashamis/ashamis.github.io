@@ -93,3 +93,4 @@ Patents
 * Clock Synchronization (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
   * Patent filed 2018
 * Side-Channel Protection (with Sylvan Clebsch and felix Schuster)
+  * Patent filed 2019
