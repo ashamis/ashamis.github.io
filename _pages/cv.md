@@ -74,21 +74,22 @@ Talks
 
 Patents
 ======
-* Erasure coding of data within a group of storage units based on connection characteristics (with Robert Jenkins, Edmund Nightingale, Cheng Huang, Parikshit Gopalan, Sergey Yekhanin)
+* Erasure coding of data within a group of storage units based on connection characteristics (with Robert Jenkins, Edmund Nightingale, Cheng Huang, Parikshit Gopalan, and Sergey Yekhanin)
   * Patent Issued, number 9,983,959
-* File storage system including tiers (with Edmund Nightingale, Pavan Edara, Mugdha Jamsandekar)
+* File storage system including tiers (with Edmund Nightingale, Pavan Edara, and Mugdha Jamsandekar)
   * Patent Issued, number 9,824,092
 * Fast read/write between networked computers via RDMA-based RPC requests (with Yutaka Suzue)
   * Patent Issued, number 9,792,248
-* Distributed lock-free RDMA-based memory allocation and de-allocation (with Yutaka Suzue, Knut Risvik)
-  * Patent filed 2015
 * Low latency RDMA-based distributed storage (with Yutaka Suzue and Knut Risvik)
   * Patent Issued, number 10,375,167
+* Distributed lock-free RDMA-based memory allocation and de-allocation (with Yutaka Suzue and Knut Risvik)
+  * Patent filed 2015
 * Distributed self-directed lock-free RDMA-based b-tree key-value manager (with Yutaka Suzue)
   * Patent filed 2015
-* Distributed Graph Databases (with Knut Mange Risvik, Chiranjeeb Buranohain, Richie Khanna, Tim Tan, Matthew Renzelmann, Ming-Chuan Wu, Miguel Castro, Dushyanth Narayanan, Aleksandar Dragojevic)
+* Distributed Graph Databases (with Knut Mange Risvik, Chiranjeeb Buranohain, Richie Khanna, Tim Tan, Matthew Renzelmann, Ming-Chuan Wu, Miguel Castro, Dushyanth Narayanan, and Aleksandar Dragojevic)
   * Patent filed 2015
-* Performing transactions in distributed transactional memory systems (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, Georgios Chatzopoulos)
+* Performing transactions in distributed transactional memory systems (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
   * Patent filed 2018
-* Clock Synchronization (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, Georgios Chatzopoulos)
+* Clock Synchronization (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
   * Patent filed 2018
+* Side-Channel Protection (with Sylvan Clebsch and felix Schuster)
