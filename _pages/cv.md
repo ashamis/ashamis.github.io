@@ -82,9 +82,9 @@ Patents
   * Patent Issued, number 9,792,248
 * Distributed lock-free RDMA-based memory allocation and de-allocation (with Yutaka Suzue, Knut Risvik)
   * Patent filed 2015
-* Distributed self-directed lock-free RDMA-based b-tree key-value manager (with Yutaka Suzue)
-  * Patent filed 2015
 * Low latency RDMA-based distributed storage (with Yutaka Suzue and Knut Risvik)
+  * Patent Issued, number 10,375,167
+* Distributed self-directed lock-free RDMA-based b-tree key-value manager (with Yutaka Suzue)
   * Patent filed 2015
 * Distributed Graph Databases (with Knut Mange Risvik, Chiranjeeb Buranohain, Richie Khanna, Tim Tan, Matthew Renzelmann, Ming-Chuan Wu, Miguel Castro, Dushyanth Narayanan, Aleksandar Dragojevic)
   * Patent filed 2015
