@@ -14,7 +14,7 @@ var addressPoints = [
   ],
   [
     "Microsoft Research Cambridge, Cambridge, UK",
-    2.1948902,0.1328594
+    52.1948902,0.1328594
   ],
   [
     "Microsoft Conference Center, Redmond, WA, USA",
