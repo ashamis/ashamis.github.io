@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Imperial College London, London, UK",
+    51.4987997,-0.1770659
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "SIGMOD 2019, Amsterdam, Netherlands",
+    52.3743766,4.8937935
+  ],
+
+  [
+    "Vrije Universiteit Amsterdam, Amsterdam, Netherlands",
+    52.3337568,4.8635312
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Microsoft Research Cambridge, Cambridge, UK",
+    2.1948902,0.1328594
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Microsoft Conference Center, Redmond, WA, USA",
+    47.6427193,-122.1269526
+  ],
+  [
+    "UK Systems workshop 2018, Northumberland, UK",
+    55.2635313,-1.7621702
   ]
 ];
