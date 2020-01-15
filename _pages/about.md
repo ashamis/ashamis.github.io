@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Alex Shamis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Alex Shamis. Currently, I am a Research Software Development Engineer at Microsoft Research in Cambridge UK and a PhD student affiliated with the Large Scale Distributed Systems group at Imperial College London. I am currently working on the intersection of security and security, on a still to be announced blockchain related project.
+I am a Research Software Development Engineer at Microsoft Research in Cambridge UK and a PhD student affiliated with the Large Scale Distributed Systems group at Imperial College London. I am currently working on the intersection of security and security, on a still to be announced blockchain related project.
 
 Microsoft Research
 --------
