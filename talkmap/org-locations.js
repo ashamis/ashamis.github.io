@@ -23,5 +23,9 @@ var addressPoints = [
   [
     "UK Systems workshop 2018, Northumberland, UK",
     55.2635313,-1.7621702
+  ],
+  [
+    "Euro CCS 2020 Program Committee Meeting, Cambridge, UK",
+    52.1948902,0.1328594
   ]
 ];
