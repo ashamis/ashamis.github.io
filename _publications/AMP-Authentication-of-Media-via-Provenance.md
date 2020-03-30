@@ -1,6 +1,6 @@
 ---
 title: "AMP: Authentication of Media via Provenance"
-authors: "Paul England, Henrique S Malvar, Eric Horvitz, Jack W Stokes, Cédric Fournet, Amaury Chamayou, Sylvan Clebsch, Manuel Costa, Shabnam Erfani, Kevin Kane, Alex Shamis"
+authors: "Paul England, Henrique S Malvar, Eric Horvitz, Jack W Stokes, Cédric Fournet, Amaury Chamayou, Sylvan Clebsch, Manuel Costa, Shabnam Erfani, Kevin Kane, <b>Alex Shamis</b>"
 collection: publications
 permalink: /publication/AMP-Authentication-of-Media-via-Provenance
 excerpt: 'AMP, a system that ensures authentication of a media content\'s source via provenance. AMP creates one or more manifests for a media instance uploaded by a content provider.'
