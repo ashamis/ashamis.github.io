@@ -3,7 +3,7 @@ title: "AMP: Authentication of Media via Provenance"
 authors: "Paul England, Henrique S Malvar, Eric Horvitz, Jack W Stokes, Cédric Fournet, Amaury Chamayou, Sylvan Clebsch, Manuel Costa, Shabnam Erfani, Kevin Kane, <b>Alex Shamis</b>"
 collection: publications
 permalink: /publication/AMP-Authentication-of-Media-via-Provenance
-excerpt: 'AMP, a system that ensures authentication of a media contents source via provenance. AMP creates one or more manifests for a media instance uploaded by a content provider.'
+excerpt: 'Advances in graphics and machine learning algorithms and processes have led to the general availability of easy-to-use tools for modifying and synthesizing media. The proliferation of these tools threatens democracies around the world by enabling wide-spread distribution of false information to billions of individuals via social media platforms. One approach to thwarting the flow of fake media is to detect synthesized or modified media via the use of pattern recognition methods, including statistical classifiers developed via machine learning. While detection may help in the short-term, we believe that it is destined to fail as the quality of the fake media generation continues to improve. Within a short period of time, neither humans nor algorithms will be able to reliably distinguish fake versus real content. Thus, pipelines for assuring the source and integrity of media will be required---and will be increasingly relied upon. We propose AMP, a system that ensures authentication of a media contents source via provenance.'
 date: 2020-01-22
 paperurl: '/files/AMP-Authentication-of-Media-via-Provenance.pdf'
 venue: 'Technical Report'
