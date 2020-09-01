@@ -84,10 +84,10 @@ Patents
   * Patent Issued, number 10,375,167
 * Clock Synchronization (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
   * Patent Issued, number 10,613,578
-* Distributed lock-free RDMA-based memory allocation and de-allocation (with Yutaka Suzue and Knut Risvik)
-  * Patent filed 2015
 * Distributed self-directed lock-free RDMA-based b-tree key-value manager (with Yutaka Suzue)
-  * Patent filed 2015
+  * Patent Issued, number 10,713,210 
+* Distributed lock-free RDMA-based memory allocation and de-allocation (with Yutaka Suzue and Knut Risvik)
+  * Patent Issued, number 10,725,963
 * Distributed Graph Databases (with Knut Mange Risvik, Chiranjeeb Buranohain, Richie Khanna, Tim Tan, Matthew Renzelmann, Ming-Chuan Wu, Miguel Castro, Dushyanth Narayanan, and Aleksandar Dragojevic)
   * Patent filed 2015
 * Performing transactions in distributed transactional memory systems (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
