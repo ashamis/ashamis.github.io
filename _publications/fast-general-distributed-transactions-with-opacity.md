@@ -25,5 +25,7 @@ Permission to make digital or hard copies of all or part of this work for person
 
 [Download honorable mention certificate here](/files/fast-general-distributed-transactions-with-opacity-Honorable-mention.pdf)
 
+[Extended version](https://arxiv.org/pdf/2006.14346.pdf)
+
 <iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/42950" frameborder="0" allowfullscreen></iframe>
 
