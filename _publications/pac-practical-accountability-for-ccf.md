@@ -1,6 +1,6 @@
 ---
 title: "PAC: Practical Accountability for CCF"
-authors: "Alex Shamis, Peter Pietzuch, Miguel Castro, Edward Ashton, Amaury Chamayou, Sylvan Clebsch, Antoine Delignat-Lavaud, Cedric Fournet, Matthew Kerner, Julien Maffre, Manuel Costa, Mark Russinovich"
+authors: "<b>Alex Shamis</b>, Peter Pietzuch, Miguel Castro, Edward Ashton, Amaury Chamayou, Sylvan Clebsch, Antoine Delignat-Lavaud, Cedric Fournet, Matthew Kerner, Julien Maffre, Manuel Costa, Mark Russinovich"
 collection: publications
 permalink: /publication/pac-practical-accountability-for-ccf
 excerpt: 'Permissioned ledger systems execute transactions on a set of replicas governed by members of a consortium. They use Byzantine fault tolerance protocols to distribute trust among the replicas, and thus can ensure linearizability if fewer than 1/3 of the replicas misbehave. With more misbehaving replicas, current systems provide no guarantees, and all replicas and members share the blame.'
