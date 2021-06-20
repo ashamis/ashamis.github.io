@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, University of New South Wales, 2009
 * B.S. in Mathematics, University of New South Wales, 2009
-* Ph.D in Computing, Imperial College London, 2022 (expected)
+* Ph.D in Computing, Imperial College London, 2023 (expected)
 
 Work experience
 ======
