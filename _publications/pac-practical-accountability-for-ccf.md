@@ -1,12 +1,12 @@
 ---
-title: "PAC: Practical Accountability for CCF"
-authors: "<b>Alex Shamis</b>, Peter Pietzuch, Miguel Castro, Edward Ashton, Amaury Chamayou, Sylvan Clebsch, Antoine Delignat-Lavaud, Cedric Fournet, Matthew Kerner, Julien Maffre, Manuel Costa, Mark Russinovich"
+title: "DTAB: Distributing Trust Without Sharing Blame"
+authors: "<b>Alex Shamis</b>, Peter Pietzuch, Burcu Canakci, Miguel Castro, Edward Ashton, Amaury Chamayou, Sylvan Clebsch, Antoine Delignat-Lavaud, Cedric Fournet, Matthew Kerner, Julien Maffre, Olga Vrousgou, Christoph M. Wintersteiger, Manuel Costa, Mark Russinovich"
 collection: publications
 permalink: /publication/pac-practical-accountability-for-ccf
 excerpt: 'Permissioned ledger systems execute transactions on a set of replicas governed by members of a consortium. They use Byzantine fault tolerance protocols to distribute trust among the replicas, and thus can ensure linearizability if fewer than 1/3 of the replicas misbehave. With more misbehaving replicas, current systems provide no guarantees, and all replicas and members share the blame.'
-date: 2021-05-27
+date: 2022-04-06
 paperurl: 'https://arxiv.org/abs/2105.13116'
-venue: 'arXiv'
+venue: 'Symposium on Networked Systems Design and Implementation (NSDI)'
 ---
 
 Permissioned ledger systems execute transactions on a set of replicas governed by members of a consortium. They use Byzantine fault tolerance protocols to distribute trust among the replicas, and thus can ensure linearizability if fewer than 1/3 of the replicas misbehave. With more misbehaving replicas, current systems provide no guarantees, and all replicas and members share the blame.
