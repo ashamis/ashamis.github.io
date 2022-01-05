@@ -1,6 +1,6 @@
 ---
 title: "Multi-stakeholder media provenance management to counter synthetic media risks in news publishing"
-authors: "J Aythora, R Burke-Agüero, A Chamayou, S Clebsch, M Costa, J Deutscher, N Earnshaw, L Ellis, P England, C Fournet, M Gaylor, C Halford, E Horvitz, A Jenks, K Kane, M Lavallee, S Lowenstein, B MacCormack, H Malvar, S O’Brien, J Parnall, EM Redmiles, <b>A Shamis<\b>, I Sharma, J Stokes, S Wenker, A Zaman"
+authors: "J Aythora, R Burke-Agüero, A Chamayou, S Clebsch, M Costa, J Deutscher, N Earnshaw, L Ellis, P England, C Fournet, M Gaylor, C Halford, E Horvitz, A Jenks, K Kane, M Lavallee, S Lowenstein, B MacCormack, H Malvar, S O’Brien, J Parnall, EM Redmiles, <b>A Shamis</b>, I Sharma, J Stokes, S Wenker, A Zaman"
 collection: publications
 permalink: /publication/Multi-stakeholder-media-provenance-management-to-counter-synthetic-media-risks-in-news-publishing
 excerpt: ' Three major global news organizations and a leading technology provider have come together to demonstrate a mechanism to tackle this problem that can operate at scale. The BBC, The New York Times Company, and CBC/Radio‐Canada in cooperation with Microsoft have developed a proposed open standards approach which can be used by large and small news organizations to protect the provenance of news stories in audio/visual/textual media.'
