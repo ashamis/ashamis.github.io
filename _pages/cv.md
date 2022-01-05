@@ -91,6 +91,10 @@ Patents
 * Distributed Graph Databases (with Knut Mange Risvik, Chiranjeeb Buranohain, Richie Khanna, Tim Tan, Matthew Renzelmann, Ming-Chuan Wu, Miguel Castro, Dushyanth Narayanan, and Aleksandar Dragojevic)
   * Patent Issued, number 10,810,179 
 * Performing transactions in distributed transactional memory systems (with Miguel Castro, Richie Rhanna, Dushyanth Narayanan, Aleksandar Dragojevic, Matthew Renzelmann, Anders Gjerdrum, Stanko Novakovic, and Georgios Chatzopoulos)
-  * Patent filed 2018
+  * Patent Issued, number 10,929,376
 * Side-Channel Protection (with Sylvan Clebsch and Felix Schuster)
   * Patent filed 2019
+* Receipts in a Distributed Ledger (with Eddy Ashton, Miguel Castro, Amaury Chamauyou, Sylvan Clebsch, Antoine Delignat-Lavaud, Cedric Fournet, Julien Maffre, and Peter Pietzuch)
+  * Patent filed 2021
+* Enclave Cloning (with Yoshimichi Nakatsuka, Ercan Ozturk, Andrew Paverd, and Peter Pietzuch)
+  * Patent filed 2021
