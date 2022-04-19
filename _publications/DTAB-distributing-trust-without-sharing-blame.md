@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/pac-practical-accountability-for-ccf
 excerpt: 'We describe IA-CCF, a new permissioned ledger system that provides individual accountability. It can assign blame to the individual members that operate misbehaving replicas regardless of the number of misbehaving replicas or members. IA-CCF achieves this by signing and logging BFT protocol messages in the ledger, and by using Merkle trees to provide clients with succinct, universally-verifiable receipts as evidence of successful transaction execution. Anyone can audit the ledger against a set of receipts to discover inconsistencies and identify replicas that signed contradictory statements. IA-CCF also supports changes to consortium membership and replicas by tracking signing keys using a sub-ledger of governance transactions. IA-CCF provides strong disincentives to misbehavior with low overhead: it executes 47,000 tx/s while providing clients with receipts in two network round trips.'
 date: 2022-04-06
-paperurl: 'https://arxiv.org/abs/2105.13116'
+paperurl: 'https://www.usenix.org/system/files/nsdi22-paper-shamis.pdf'
 venue: 'Symposium on Networked Systems Design and Implementation (NSDI)'
 ---
 
@@ -13,6 +13,4 @@ Permissioned ledger systems allow a consortium of members that do not trust one 
 
 We describe IA-CCF, a new permissioned ledger system that provides individual accountability. It can assign blame to the individual members that operate misbehaving replicas regardless of the number of misbehaving replicas or members. IA-CCF achieves this by signing and logging BFT protocol messages in the ledger, and by using Merkle trees to provide clients with succinct, universally-verifiable receipts as evidence of successful transaction execution. Anyone can audit the ledger against a set of receipts to discover inconsistencies and identify replicas that signed contradictory statements. IA-CCF also supports changes to consortium membership and replicas by tracking signing keys using a sub-ledger of governance transactions. IA-CCF provides strong disincentives to misbehavior with low overhead: it executes 47,000 tx/s while providing clients with receipts in two network round trips.
 
-[Download paper here](https://arxiv.org/pdf/2105.13116)
-
-[Download BibTex here](https://scholar.googleusercontent.com/scholar.bib?q=info:3ZSO78UgMLkJ:scholar.google.com/&output=citation&scisdr=CgXs4J7KEPeV50riMFs:AAGBfm0AAAAAYMzkKFu29JOtru54aEqHNwpdPk3w5Sli&scisig=AAGBfm0AAAAAYMzkKDSpx4-Dz7OuY8Uezr0TUY1iUFpK&scisf=4&ct=citation&cd=-1&hl=en)
+[Download paper here](https://www.usenix.org/system/files/nsdi22-paper-shamis.pdf)
