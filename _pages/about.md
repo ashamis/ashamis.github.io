@@ -12,7 +12,7 @@ I am a Research Software Engineer with the Confidential Computing group at Micro
 
 Microsoft Research
 --------
-I am a Senior Research Software Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on consensus protocols, distributed transactional systems, systems for machine learning, mobile input, and other projects.
+I am a Senior Research Software Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on consensus protocols, distributed transactional systems, file systems, systems for machine learning, mobile input, and other projects.
 
 Imperial College London
 --------
