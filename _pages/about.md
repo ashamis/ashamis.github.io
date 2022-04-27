@@ -16,4 +16,4 @@ I am a Senior Research Software Development Engineer working on distributed syst
 
 Imperial College London
 --------
-In addition to my full time responsibilities at Microsoft Research I am also a PhD student at Imperial College London. I am a member of the Large-Scale Data and Systems Group ([LSDS](https://lsds.doc.ic.ac.uk/)), under the supervision of Dr. [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/). I began my studies on September 2018.
+In addition to my full time responsibilities at Microsoft Research I am also a PhD student at Imperial College London. I am a member of the Large-Scale Data and Systems Group ([LSDS](https://lsds.doc.ic.ac.uk/)), under the supervision of Professor [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/). I began my studies on September 2018.
