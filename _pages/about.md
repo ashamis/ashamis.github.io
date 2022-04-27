@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Software Development Engineer at Microsoft Research in Cambridge UK and a PhD student affiliated with the Large Scale Distributed Systems group at Imperial College London. I am currently working on the intersection of systems and security, focusing on Byzantine consensus protocols.
+I am a Research Software Engineer with the Confidential Computing group at Microsoft Research and a PhD student affiliated with the Large Scale Distributed Systems group at Imperial College London. I am currently working on the intersection of systems, and security.
 
 Microsoft Research
 --------
-I am a Senior Research Software Development Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on distributed transactional systems, mobile input, and other projects.
+I am a Senior Research Software Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on consensus protocols, distributed transactional systems, systems for machine learning, mobile input, and other projects.
 
 Imperial College London
 --------
