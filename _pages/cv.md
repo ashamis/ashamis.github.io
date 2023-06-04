@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Senior Research Software Engineer, Microsoft Research, 2019 - Current
+* Senior Software Engineer, Apple, 2022 - current
+* Senior Research Software Engineer, Microsoft Research, 2019 - 2022
   * Designed, built, and owned the Byzantine fault tolerance feature for Microsoft’s Confidential consortium framework (CCF), which can be successfully audited regardless of how many replicas misbehave.
   * Worked with members of the CCF team and external customers to productize CCF. 
   * Designed and built a distributed system that executes machine learning inference requests in an untrusted environment. This system utilizes a novel Byzantine fault tolerant consensus protocol to provide users confidence in the validity of the inference results.
