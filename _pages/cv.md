@@ -9,15 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computing, Imperial College London, 2023
-* B.S. in Computer Science, University of New South Wales, 2009
-* B.S. in Mathematics, University of New South Wales, 2009
-
 Work experience
 ======
-* Senior Software Engineer, Apple, 2022 - current
+* Staff Software Engineer, Apple, 2022 - current
 * Senior Research Software Engineer, Microsoft Research, 2019 - 2022
   * Designed, built, and owned the Byzantine fault tolerance feature for Microsoft’s Confidential consortium framework (CCF), which can be successfully audited regardless of how many replicas misbehave.
   * Worked with members of the CCF team and external customers to productize CCF. 
@@ -57,6 +51,12 @@ Work experience
 * Software Developer, Tango Technology, Sydney Australia, 2006 - 2008
   * Designed and developed a distributed trading execution system for RARA Investment Limited using Microsoft technologies (C#, SQL Server, Windows Sockets, etc.), IRESS, and Bloomberg
   * Developed websites and reporting tools using Microsoft technologies (C#, SQL Server, Excel, etc.) for financial firms
+
+Education
+======
+* Ph.D in Computing, Imperial College London, 2023
+* B.S. in Computer Science, University of New South Wales, 2009
+* B.S. in Mathematics, University of New South Wales, 2009
 
 Publications
 ======
