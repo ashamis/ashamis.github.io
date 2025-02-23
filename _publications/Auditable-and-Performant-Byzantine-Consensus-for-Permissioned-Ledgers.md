@@ -6,7 +6,7 @@ permalink: /publication/Auditable-and-Performant-Byzantine-Consensus-for-Permiss
 excerpt: 'This thesis explores how permissioned ledgers and their consensus protocols can be made auditable in perpetuity; even when all replicas collude and re-write the ledger. It also addresses how Byzantine consensus protocols can be changed to increase the execution throughput of complex transactions.'
 date: 2023-05-01
 paperurl: '/files/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.pdf'
-venue: '2019 ACM SIGPLAN International Symposium on Memory Management (ISMM)'
+venue: 'Imperial College London, Department of Computing'
 ---
 
 This thesis explores how permissioned ledgers and their consensus protocols can be made auditable in perpetuity; even when all replicas collude and re-write the ledger. It also addresses how Byzantine consensus protocols can be changed to increase the execution throughput of complex transactions. This thesis makes the following contributions:
