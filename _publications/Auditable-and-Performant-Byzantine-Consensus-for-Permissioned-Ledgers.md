@@ -15,6 +15,6 @@ This thesis explores how permissioned ledgers and their consensus protocols can 
 2. **Performant transaction execution with hardware accelerators**. Next, we describe a cloud-based ML inference service that provides strong integrity guarantees, while staying compatible with current inference APIs. We change the Byzantine consensus protocol to execute machine learning (ML) inference computation on GPUs to optimize throughput and latency of ML inference computation.
 3. **Parallel transactions execution on multi-core CPUs**. Finally, we introduce a permissioned ledger that executes transactions, in parallel, on multi-core CPUs. We separate the execution of transactions between the primary and secondary replicas. The primary replica executes transactions on multiple CPU cores and creates a dependency graph of the transactions that the backup replicas utilize to execute transactions in parallel.
 
-[Download paper here](/files/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.pdf)
+[Download thesis here](/files/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.pdf)
 
 [Download BibTex here](/files/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.bib)
