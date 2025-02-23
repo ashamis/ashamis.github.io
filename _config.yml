@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alex Shamis"
   avatar           : "AlexProfileImage.jpg" # "profile.png"
-  bio              : "Software Engineer focused on the intersection of research and industry, with expertise in distributed systems, operating systems, and security."
+  bio              : "Software Engineer working at the intersection of research and industry, with expertise in distributed systems, operating systems, and security."
   location         :
   employer         : "Microsoft Research"
   university       : "Imperial College London"
