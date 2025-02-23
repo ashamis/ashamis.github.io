@@ -2,10 +2,11 @@
 title: "Auditable and Performant Byzantine Consensus for Permissioned Ledgers"
 authors: "Alex Shamis"
 collection: publications
-permalink: /publication/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.md
+permalink: /publication/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers
 excerpt: 'This thesis explores how permissioned ledgers and their consensus protocols can be made auditable in perpetuity; even when all replicas collude and re-write the ledger. It also addresses how Byzantine consensus protocols can be changed to increase the execution throughput of complex transactions.'
 date: 2023-05-01
 paperurl: '/files/Auditable-and-Performant-Byzantine-Consensus-for-Permissioned-Ledgers.pdf'
+venue: 'Imperial College London, Department of Computing'
 ---
 
 This thesis explores how permissioned ledgers and their consensus protocols can be made auditable in perpetuity; even when all replicas collude and re-write the ledger. It also addresses how Byzantine consensus protocols can be changed to increase the execution throughput of complex transactions. This thesis makes the following contributions:
