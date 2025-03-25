@@ -12,7 +12,7 @@ I was a Research Software Engineer with the Confidential Computing group at Micr
 
 Apple
 --------
-I was a staff software engineering working on distributed storage at Apple. I was a tech lead for Apple's internal S3-compliant, multi-exabyte, Object Store and Disaggregate block storage teams.
+I was a staff software engineer and tech lead working on distributed storage at Apple. I provided technical leadership for Apple's internal S3-compliant, multi-exabyte, Object Store and Disaggregate block storage teams.
 
 Microsoft Research
 --------
