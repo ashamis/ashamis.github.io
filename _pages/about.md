@@ -10,6 +10,10 @@ redirect_from:
 
 I was a Research Software Engineer with the Confidential Computing group at Microsoft Research and a PhD student affiliated with the Large Scale Distributed Systems group at Imperial College London. I am currently working on the intersection of systems, and security.
 
+Apple
+--------
+I was a staff software engineering working on distributed storage at Apple. I was a tech lead for Apple's internal S3-compliant, multi-exabyte, Object Store and Disaggregate block storage teams.
+
 Microsoft Research
 --------
 I was a Research Software Engineer working on distributed systems and security. Throughout my tenure at Microsoft research, I have worked on consensus protocols, distributed transactional systems, file systems, systems for machine learning, mobile input, and other projects.
