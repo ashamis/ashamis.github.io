@@ -30,6 +30,6 @@ var addressPoints = [
   ],
   [
     "Columbia CryptoEconomics (CCE) Workshop 2025, Columbia University, NY, USA",
-    40.8143, -73.9535
+    40.807384,-73.963036
   ]
 ];
