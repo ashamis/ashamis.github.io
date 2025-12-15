@@ -7,7 +7,6 @@ var addressPoints = [
     "SIGMOD 2019, Amsterdam, Netherlands",
     52.3743766,4.8937935
   ],
-
   [
     "Vrije Universiteit Amsterdam, Amsterdam, Netherlands",
     52.3337568,4.8635312
@@ -29,7 +28,7 @@ var addressPoints = [
     52.1948902,0.1328594
   ],
   [
-    "Columbia CryptoEconomics (CCE) Workshop 2025, Columbia University, NY, USA",
+    "Columbia CryptoEconomics Workshop 2025, Columbia University, NY, USA",
     40.807384,-73.963036
-  ]
+  ],
 ];
