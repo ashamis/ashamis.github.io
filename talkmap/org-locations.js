@@ -28,7 +28,7 @@ var addressPoints = [
     52.1948902,0.1328594
   ],
   [
-    "Columbia CryptoEconomics Workshop 2025, Columbia University, NY, USA",
+    "Columbia CryptoEconomics Workshop 2025, NY, USA",
     40.807384,-73.963036
   ],
 ];
