@@ -27,5 +27,9 @@ var addressPoints = [
   [
     "Euro CCS 2020 Program Committee Meeting, Cambridge, UK",
     52.1948902,0.1328594
+  ],
+  [
+    "Columbia CryptoEconomics (CCE) Workshop 2025, Columbia University, NY, USA",
+    40.8143, -73.9535
   ]
 ];
