@@ -1,5 +1,5 @@
 ---
-title: "TEE-BFT: Pricing the Security of Data Center Execution Assurance"
+title: "TEE<sup>BFT</sup>: Pricing the Security of Data Center Execution Assurance"
 authors: "<b>Alex Shamis</b>, Matt Stephenson, Linfeng Zhou"
 collection: publications
 permalink: /publication/TEE-BFT-Pricing-the-Security-of-Data-Center-Execution-Assurance
